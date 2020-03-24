@@ -3,6 +3,8 @@ THIS IS FOR EDUCATIONAL PURPOSE ONLY.
 
 This tool is made using pure Python.
 
+INSTALL ALL THE REQUIRED MODULES AND PACKAGES BEFORE USE.
+
 This tool traverses through all directories and files to rename its filenames and extentions.
 
 When a file's extention is not correct that file cannot be opened using any software. 
