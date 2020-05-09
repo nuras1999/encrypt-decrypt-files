@@ -1,26 +1,27 @@
 # encrypt-decrypt-files
-THIS IS FOR EDUCATIONAL PURPOSE ONLY.
+> Encrypt and Decrypt all files in your PC
 
-This tool is made using pure Python.
+## Overview
+- Think when you double click a python file and in 5 seconds you can't access any files like documents, videos, images,etc in your PC until you decrypt it.
+- This program traverses all the folders and renames the files and its extensions using a Encrypt key. 
+- A file cannot be opened unless the extension is correct. 
+- So using the Decrypt file we bring back the files to its original form.
+- This is to learn how to traverse through directories, manipulating textfiles, exception handling, dictionaries, looping, etc.
 
-INSTALL ALL THE REQUIRED MODULES AND PACKAGES BEFORE USE.
 
-This tool traverses through all directories and files to rename its filenames and extentions.
+## Precautions
+* Install all required modules and packages.
+* Using this code to prank in unauthorized PC is not encouraged.
+* It will lead to several severe issues if executed unknowingly. 
+* **Use Decrypt file the same number of times the Encrypt file is used.**
 
-When a file's extention is not correct that file cannot be opened using any software. 
-Also when the filenames are changed we cannot recognize what file it is.
 
-So this uses certain pattern to encrypt and decrypt names and extensions of files.
+## Contact
+* _GitHub_ : [nuras1999](https://www.github.com/nuras1999)
+* _LinkedIn_ : [nuras](https://www.linkedin.com/in/nuras)
+* _HackerRank_ : [nuras1999](https://www.hackerrank.com/nuras1999)
+* _Instagram_ : [arun](https://www.instagram.com/arun___.___)
 
-This is created to learn how to traverse through files, use dictionary, looping, etc.
 
-Use encrypt file to change the name and decrypt file to bring it back. You should decrypt the same number of times you encrypted.
+**_|..Explore. Code. Explore..|_**
 
-This can be used best when we create .exe of this Python program and execute using Social Engineering.
-
-Use this in safe environment. Until you decrypt you can't use any files in your PC.
-Using this is friend's PC may lead you to various severe problems. Use this with caution..!!
-
-This is small program with less than 80 lines of code.
-
-|..Explore. Code. Explore..|
